@@ -4,13 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mark Keller. I have the following qualities:
+I am a third year computer science major, going to the University of Waterloo, in Canada.
+I hate scheme (Racket), I'm slowly getting used to Python and I like C and C++ the most.
+I have worked on many of my own projects. The biggest ones can be found on my github profile!
+I love puppies, my computer and my family.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
+I love challenges and success!
 What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
