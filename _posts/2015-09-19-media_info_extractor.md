@@ -7,8 +7,8 @@ subtitle: An easy way to overview video attributes
 I wrote a python script that could be useful for people, who are doing video clip analysis, or manual video testing, as it makes it really easy to compare video file attributes.  
 It will collect all information about the video files located in the same folder as the script and then parse the data into an xml file.  
 **Columns** of the excel file **will be in arbitrary order**.  
-Attributes missing from file(s) (if present in at least one other file) will be substituted with "N/A"  
----
+Attributes missing from file(s) (if present in at least one other file) will be substituted with "N/A"
+
 ### Here's how to use it:  
 1. Just put a bunch of video files in a folder  
 2. Make sure that you have **python**, **medianinfo** and **tablib** installed
@@ -17,8 +17,9 @@ Attributes missing from file(s) (if present in at least one other file) will be 
 3. If needed change ```filters```, if a filename contains one of these strings that file will be ignored
 4. ```python media_info_collector.py```
 5. Check out the beautiful result.xml file
----
+
 ### media_info_collector.py
+
 ```Python
 import subprocess, os, copy, tablib
 
