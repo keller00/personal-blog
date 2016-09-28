@@ -4,9 +4,9 @@ title: Higher Usage of nose
 subtitle: How to take your tests not only to the next level, but out of this world
 ---
 ### What is nose?
-It is an unittest framework. It makes testing Python code super easy and efficienti so you can focus on the tests' wuality instead of doing all of the grunt work.  
+It is an unittest framework. It makes testing Python code super easy and efficienti so you can focus on the tests' quality instead of doing all of the grunt work.  
 If you write python code then you should be using nose to verify not only your overall program, but parts of it as well.  
-###Why do I prefer nose?
+### Why do I prefer nose?
 Its syntax is not only clear, but also easy to remember. It has built in support for saving the results in a nicely formated xml file with details like how long each test took.  
 Instead of writing every single error a different printing/logging message I can just throw a descriptive Exception when encountering an error and nose will fail that test, print the description in a noticable way and move onto the next test. This way I don't have to scan through the super descriptive logs to know if the tests even passed, or failed.  
 ### The problem I faced while using it
@@ -17,7 +17,7 @@ I looked everywhere for a way to pass class instances in between nosetests, but 
 ### The solution
 So I read everything about nose I could find online. The only lead I found was that nose could be ran from inside a python script, at least cutting out the middleman, subprocess.  
 Then I changed options around until I found what I was looking for. Here's **how you pass class instances in between nosetests, or to a single nosetest**.  
-'''Python
+'''python
 import nose
 
 class example:
