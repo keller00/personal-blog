@@ -1,3 +1,6 @@
+---
+layout: page
+---
 <script>
   (function() {
     var cx = '011217060609653031902:bcuk4yprol4';
