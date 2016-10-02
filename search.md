@@ -1,9 +1,9 @@
- ---
- layout: page
- title: Search
- permalink: /search/
- sitemap: false
- ---
+---
+layout: page
+title: Search
+permalink: /search/
+sitemap: false
+---
 <script>
   (function() {
     var cx = '011217060609653031902:bcuk4yprol4';
