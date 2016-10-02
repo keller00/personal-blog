@@ -13,4 +13,4 @@
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
 {% endif %}
 
-<a href="{{ linkurl }}" {% if page.url = linkurl %}class="active"{%endif%}>{{ include.link[0] }}</a>
+<a href="{{ linkurl }}" {% if page.url = {{ linkurl }} %}class="active"{% endif %}>{{ include.link[0] }}</a>
