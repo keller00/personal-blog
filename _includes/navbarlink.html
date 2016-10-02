@@ -15,6 +15,6 @@
 
 {% if page.url == "{{ include.link[1] }}"
   <a href="{{ linkurl }}" class="active">{{ include.link[0] }}</a>
-<% else %>
+{% else %}
   <a href="{{ linkurl }}">{{ include.link[0] }}</a>
 {% endif %}
