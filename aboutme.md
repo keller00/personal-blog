@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Here are some of my aspara-calities
 sitemap:
-    exclude: true
+    exclude: 'yes'
 ---
 
 My name is Mark Keller.
