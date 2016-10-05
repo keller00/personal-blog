@@ -2,6 +2,13 @@
 layout: post
 title: media_info_collector.py
 subtitle: An easy way to overview video attributes
+tags:
+- video
+- mediainfo
+- mediainfo_collection
+- mediainfo_collector
+- python
+- python to excel
 ---
 ### What is media_info_collector.py?
 I wrote a python script that could be useful for people, who are doing video clip analysis, or manual video testing, as it makes it really easy to compare video file attributes.  
