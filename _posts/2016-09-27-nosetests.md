@@ -2,6 +2,12 @@
 layout: post
 title: Higher Usage of nose
 subtitle: How to take your tests not only to the next level, but out of this world
+tags:
+- nose
+- nosetests
+- advanced nose
+- python
+- programming
 ---
 ### What is nose?
 It is an unittest framework. It makes testing Python code super easy and efficient so you can focus on the tests' quality instead of doing all of the grunt work.  
