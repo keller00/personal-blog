@@ -9,6 +9,7 @@ tags:
 - mediainfo_collector
 - python
 - python to excel
+- programming
 ---
 ### What is media_info_collector.py?
 I wrote a python script that could be useful for people, who are doing video clip analysis, or manual video testing, as it makes it really easy to compare video file attributes.  
