@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Higher Usage of nose
+title: Nosetests and how to pass object instances between tests
 subtitle: How to take your tests not only to the next level, but out of this world
 tags:
 - nose
 - nosetests
 - advanced nose
+- pass object
 - python
 - programming
 ---
