@@ -62,4 +62,4 @@ I hope this tutorial will help others from going through the same trouble, or fr
 1. Make class instance *global*  
 2. ```import nose```  
 3. Use ```nose.run()```, or equivalent to run nose  
-4. Make you pass ```__main__ + ":<tester class name>"``` to nose as *defaultTest*  
+4. Make sure you pass ```__main__ + ":<tester class name>.<test function name>"``` to nose as *defaultTest*  
