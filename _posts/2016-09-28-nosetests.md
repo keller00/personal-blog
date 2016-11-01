@@ -30,25 +30,31 @@ Then I changed options around until I found what I was looking for. Here's **how
 
 ```Python
 import nose
+from time import sleep
 
 class example:
 	def __init__(self):
+		print "Setting up"
+		# Simulating long setup script
+		sleep(5)
 		self.name = 'This class is just an example of what would be passed to a nosetest'
 		self.title = 'This is the title'
 		self.description = 'This is the description'
 
 class test_example:
 	def test_this(self):
-		assert 'is' is not in global_example.title
+		assert 'is' not in global_example.title
+		global global_example
+		global_example.description = global_example.description.replace('description', 'desc.')
 	def test_that(self):
-		assert 'description' is not in global_example.description
+		assert 'description' not in global_example.description
 
 if __name__ == '__main__':
 	global global_example
 	global_example = example()
 	global_example.title = global_example.title.replace('is', 'was')
-	global_example.description = global_example.description.replace('description', 'desc.')
-	nose.run(defaultTest = __main__ + ':test_example')
+	nose.run(defaultTest = __name__ + ':test_example.test_this')
+	nose.run(defaultTest = __name__ + ':test_example.test_that')
 ```
 
 I hope this tutorial will help others from going through the same trouble, or from re initializing those classes many times.  
