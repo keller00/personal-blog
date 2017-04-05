@@ -13,6 +13,15 @@
             </a>
           </li>
           {% endif %}
+	{% if site.footer-links-active.findmeon%}
+          <li>
+            <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
+              <span class="find-me-on">
+                <img src="/img/findmeon.png" alt="Find me on"><br>
+              </span>
+            </a>
+          </li>
+          {% endif %}
           {% if site.author.github and site.footer-links-active.github %}
           <li>
             <a href="https://github.com/{{ site.author.github }}" title="GitHub">
