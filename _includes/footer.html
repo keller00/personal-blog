@@ -3,15 +3,14 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 	      <p class="pre footer">
-		 {% if site.footer-links-active.findmeon%}
-		  <li>
-		    <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
-		      <span class="find-me-on">
+		{% if site.footer-links-active.findmeon%}
+		<li>
+			<span class="find-me-on">
 			<img src="/img/findmeon.png" alt="Find me on"><br> &nbsp;
-		      </span>
-		    </a>
-          </li>
+			</span>
+          	</li>
 	      </p>
+	    </div>
         <ul class="list-inline text-center footer-links">
           {% if site.author.facebook and site.footer-links-active.facebook %}
           <li>
