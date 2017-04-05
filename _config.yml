@@ -35,6 +35,7 @@ avatar: "/img/mark.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
+  checkmeout : false
   name: Mark Keller
   email: "markooo.keller@gmail.com"
   github: keller00    # eg. daattali
