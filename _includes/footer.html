@@ -7,17 +7,6 @@
 			<img src="/img/findmeon.png" alt="Find me on">
 		{% endif %}
 	      </p>
-	    </div>
-	    <p class="copyright text-muted">
-		  {{ site.author.name }}
-		  &nbsp;&bull;&nbsp;
-		  {{ site.time | date: '%Y' }}
-
-		  {% if site.url-pretty %}
-		  &nbsp;&bull;&nbsp;
-		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-		  {% endif %}
-	    </p>
         <ul class="list-inline text-center footer-links">
           {% if site.author.facebook and site.footer-links-active.facebook %}
           <li>
