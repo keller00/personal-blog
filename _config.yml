@@ -47,7 +47,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  checkmeout : false
+  findmeon : false
   rss: false
   facebook: false
   email: true
