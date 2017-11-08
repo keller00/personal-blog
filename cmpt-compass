@@ -82,7 +82,7 @@ sitemap:
             new_picture.setAttribute("class", "col-lg-4 col-md-6 padded");
             var picture = document.createElement("img");
             picture.setAttribute("src", list[link] + '?' + time);
-            picture.setAttribute("class", "img-fluid rounde");
+            picture.setAttribute("class", "img-fluid rounded");
             new_picture.append(picture);
             $("[id=pictures]").append(new_picture);
         }
