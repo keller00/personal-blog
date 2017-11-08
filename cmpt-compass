@@ -47,7 +47,7 @@ sitemap:
 <div class="container spacer" id="site">
     <!-- No JS message -->
     <div class="dropdown">
-        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+        <button class="btn btn-large btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
                 aria-haspopup="true" aria-expanded="false">
             Choose location
             <span class="caret"></span>
