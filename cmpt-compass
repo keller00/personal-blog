@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: nothing
 title: Compact Compass
 permalink: /cmpt-compass.html
 sitemap:
@@ -59,6 +59,8 @@ sitemap:
     <div class="row" id="pictures">
         <!-- Pictures will go here -->
       </div>
+      
+    {% include footer-minimal.html %}
 </div>
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"
