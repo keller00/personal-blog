@@ -1,9 +1,11 @@
 ---
+common-ext-css
+  - "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
 common-css:
   - "/css/main-minimal.css"
-common-js:
+  - "/css/cmpt-compass.css"
 ---
-
+{% include head.html %}
 {{ content }}
 {% include footer-minimal.html %}
 {% include google_analytics.html %}
