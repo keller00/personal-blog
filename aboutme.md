@@ -7,11 +7,13 @@ sitemap:
 ---
 
 My name is Mark Keller.  
-I am a third year computer science major, going to the University of Waterloo, in Canada.  
-I like to learn and do new things on my computer.  
+I am a senior year computer science major, studying at the University of Waterloo, in Canada. I like to learn and do new things on my computer.  
 
-I speak many languages, such as: Scala:heart:, C/C++, Python, Java , PHP and Scheme and even more  
-I have worked on many of my own projects (The biggest one being a multiplayer game's server, client components), as well as doing 12 months of internship at Evertz Microsystems. My biggest projects can be found on my github profile!  
+I speak many languages, such as: Python:heart:, Scala, C, C++, Java and even more.
 
-I :heart: puppies, my computer and my family.  
-I :heart: challenges and success!  
+I have worked on many of my own projects, which can be found on my GitHub account.
+
+I have completed 16 months of internship at Evertz Microsystems developing video related applications and doing devops work.
+You might have also seen me at the Nvidia HQ in Santa Clara where I completed a 4 months long internship working on their cloud solution.
+
+Send me any pictures of your :dog:!
