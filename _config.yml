@@ -23,7 +23,7 @@ description: Mark's Blog
 
 # List of links in the navigation bar
 navbar-links:
-  Posts: "https://www.markkeller.me"
+  Posts: "https://markkeller.me"
   Compact Compass : "cmpt-compass"
   About Me: "aboutme"
 
