@@ -133,10 +133,6 @@
 		  {{ site.author.name }}
 		  &nbsp;&bull;&nbsp;
 		  {{ site.time | date: '%Y' }}
-			
-		{% if site.author.email and site.footer-links-active.email %}
-			{{ site.author.email }}
-		{% endif %}
 		
               </span>
             </a>
@@ -148,6 +144,11 @@
 		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
 		  {% endif %}
 	    </p>
+	    {% if site.author.email %}
+		<p class="copyright text-muted">
+			{{ site.author.email }}
+		</p>
+	    {% endif %}
 	        <!-- Please don't remove this, keep my open source work credited :) -->
 		<p class="theme-by text-muted">
 		  Theme by
