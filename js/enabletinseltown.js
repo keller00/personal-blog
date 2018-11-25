@@ -1,1 +1,1 @@
-tnslInit([1])
+$(document).ready(function() { tnslInit(); });
