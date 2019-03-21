@@ -15,5 +15,3 @@ I have worked on many of my own projects, which can be found on my GitHub accoun
 
 I have completed 16 months of internship at Evertz Microsystems developing video related applications and doing devops work.
 You might have also seen me at the Nvidia HQ in Santa Clara where I completed a 4 months long internship working on their cloud solution.
-
-Send me any pictures of your :dog:!
