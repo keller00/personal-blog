@@ -61,60 +61,32 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-<<<<<<< HEAD
   name: Mark Keller
   email: "contact at markkeller dot dev"
-  github: keller00    # eg. daattali
-  google-plus: 103036954795004483231   # eg. +DeanAttali or 109424658772469020925
-  linkedin: markokeller  # eg. daattali
-  #stackoverflow: yourlink  # eg. "3943160/daattali"
-  #snapchat: yourname  # eg. daattali
-  instagram: markokeller # eg. daattali
-  #spotify: yourname   # eg. daattali
-
-# Select which links to show in the footer
-footer-links-active:
-  findmeon : true
-  rss: true
-  facebook: false
-  email: true
-  twitter: true
-  google-plus: false
-  github: true
-  linkedin: true
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: true
-  youtube: false
-  spotify: false
-=======
-  name: Some Person
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+findmeon : true
 social-network-links:
+  github: keller00
+  instagram: markokeller
+  linkedin: markokeller
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+#  facebook: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
->>>>>>> 8795934e47b91fa1ece51e2a0f1199ef68d70457
 
 # Select which share links to show in posts
 share-links-active:
@@ -129,16 +101,8 @@ share-links-active:
 
 # --- Web Statistics Section --- #
 
-<<<<<<< HEAD
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "markokeller"
-=======
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
->>>>>>> 8795934e47b91fa1ece51e2a0f1199ef68d70457
-
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84348294-2"
+gtag:  "UA-84348294-2"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -155,7 +119,7 @@ google_analytics: "UA-84348294-2"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "markokeller"
 # If you want to use just-comments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
 
