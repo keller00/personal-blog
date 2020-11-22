@@ -63,7 +63,7 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Mark Keller
-  email: "contact at markkeller dot dev"
+  email: "mark at markkeller dot dev"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -120,7 +120,7 @@ share-links-active:
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "markokeller"
+# disqus: "markokeller"
 # If you want to use just-comments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
 
