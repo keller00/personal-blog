@@ -1,8 +1,7 @@
 ---
-layout: post
-title: Cerberus - The Mighty Watchdog of Hades
-subtitle: Perfect tool to syntax check your json api
-bigimg: /img/Cerber.jpg
+title: "Cerberus - The Mighty Watchdog of Hades"
+date: 2016-10-09T00:00:00-04:00
+subtitle: "Perfect tool to syntax check your json api"
 tags:
 - syntax checking
 - syntax validation
@@ -72,4 +71,4 @@ You can just tell Cerberus to tests the values of the dictionary with the ```val
 
 Anyone using Python and apis (1st or 3rd party ones for that matter) should use Cerberus to keep the api responses in check, so any changes would be apparent.  
 
-[1]: http://docs.python-cerberus.org/en/stable/
+[1]: http://docs.python-cerberus.org/

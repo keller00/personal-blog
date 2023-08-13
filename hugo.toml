@@ -1,0 +1,54 @@
+baseURL = 'https://www.markkeller.dev/'
+languageCode = 'en-us'
+title = "Mark's Blog"
+theme = 'hugo-blog-awesome'
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/keller00"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
+
+[params]
+mainSections = ['posts']
+toc = false
+goToTop = true
+defaultColor = "auto"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+	[markup.tableOfContents]
+		startLevel = 2 # ToC starts from H2
+		endLevel = 4 # ToC ends at H4
+		ordered = false # generates <ul> instead of <ol>
+
+[menu]
+  [[menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
+
+[params.author]
+  avatar = "avatar.jpg"
+  intro = "Personal Blog"
+  name = "Mark Keller"
+  contact = "mark at markkeller dot dev"
+  description = "What is going on in my life"

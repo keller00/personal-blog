@@ -1,7 +1,7 @@
 ---
-layout: post
 title: media_info_collector.py
-subtitle: An easy way to overview video attributes
+date: 2016-09-19T00:00:00-00:00
+subtitle: "An easy way to overview video attributes"
 tags:
 - video
 - mediainfo

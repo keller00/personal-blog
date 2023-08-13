@@ -1,8 +1,8 @@
 ---
-Layout: post
-Title: regress - Regression testing
-Subtitle: What's the big idea?
-Tags:
+title: "regress - Regression testing"
+date: 2017-10-04T00:00:00-04:00
+subtitle: "What's the big idea?"
+tags:
 - Regress
 - Regression
 - Regression testing

@@ -1,6 +1,6 @@
 ---
-layout: post
 title: FFMPEG Combining and Separating audio streams
+date: 2016-11-27T00:00:00-04:00
 subtitle: Examples and Explanations
 tags:
 - ffmpeg

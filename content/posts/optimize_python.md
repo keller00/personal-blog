@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Optimize Python
-subtitle: How to profile and optimize Python apps
+title: "Optimize Python"
+date: 2018-07-14T00:00:00-04:00
+subtitle: "How to profile and optimize Python apps"
 tags:
 - python
 - optimize

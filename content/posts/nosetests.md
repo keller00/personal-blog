@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Nosetests and how to pass object instances between tests
-subtitle: How to take your tests not only to the next level, but out of this world
+date: 2016-09-28T00:00:00-00:00
+title: "Nosetests and how to pass object instances between tests"
+subtitle: "How to take your tests not only to the next level, but out of this world"
 tags:
 - nose
 - nosetests
