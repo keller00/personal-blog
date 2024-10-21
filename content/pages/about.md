@@ -12,5 +12,5 @@ I have worked on many of my own projects, which can be found on my [GitHub accou
 
 You might have also seen me at one of these places doing these things:
 * Snowflake: working on various client libraries and some server-side features of their database
-* Nvidia HQ: working on their cloud solution
+* Nvidia: working on their cloud solution
 * Evertz Microsystem: developing video applications and doing devops work
