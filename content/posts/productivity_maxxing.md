@@ -1,7 +1,6 @@
 ---
 title: "Productivity-maxxing"
 date: 2024-10-17T21:10:29-07:00
-draft: true
 ---
 
 
