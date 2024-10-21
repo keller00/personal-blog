@@ -85,7 +85,7 @@ Through Readwise all of my highlights export into my Second Brain effortlessly. 
 ## Other things that work for me
 
 * [Deep work](https://www.amazon.com/gp/product/1455586692): This book explains the flow state that I noticed while attending university and explains how to reach it.
-* LOFI music: I actually saw a [Youtube video](https://www.youtube.com/watch?v=em34-rKofOg&pp=ygUUaG93IGxvZmkgbXVzaWMgd29ya3M%3D) recently that explains how they work. I'm a big fan! You might catch me at work listening to some EDM. Here’s [the one I was listening to today](https://www.youtube.com/watch?v=8CT6HxYA0cg).
+* LOFI music: I actually saw a [Youtube video](https://www.youtube.com/watch?v=em34-rKofOg&pp=ygUUaG93IGxvZmkgbXVzaWMgd29ya3M%3D) recently that explains how they work. I'm a big fan! You might also catch me at work listening to some EDM. Here’s [the one I was listening to today](https://www.youtube.com/watch?v=8CT6HxYA0cg).
 
 ## Calendar blocking
 
