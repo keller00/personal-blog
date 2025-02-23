@@ -10,7 +10,7 @@ url = "https://github.com/keller00"
 
 [[params.socialIcons]]
 name = "Rss"
-url = "index.xml"
+url = "/index.xml"
 
 [params]
 mainSections = ['posts']
