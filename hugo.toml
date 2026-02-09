@@ -1,7 +1,6 @@
 baseURL = 'https://www.markkeller.dev/'
 languageCode = 'en-us'
 title = "Mark's Blog"
-theme = 'hugo-blog-awesome'
 defaultContentLanguage = "en-us"
 
 [[params.socialIcons]]
