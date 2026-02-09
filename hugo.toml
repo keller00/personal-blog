@@ -33,12 +33,12 @@ ordered = false # generates <ul> instead of <ol>
 # The page reference (pageRef) is useful for menu highlighting
 # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
 pageRef = "posts"
-name = '/posts'
+name = 'Posts'
 url = '/posts/'
 weight = 10
 [[menu.main]]
 pageRef = "now"
-name = '/now'
+name = 'Now'
 url = '/now/'
 weight = 20
 
